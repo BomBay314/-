@@ -15,7 +15,7 @@ $urlForEmptyRequiredFields = 'index.html';
 // Where to redirect if the server replied with something incomprehensible
 $urlForNotJson = 'index.html';
 // Where to redirect if everything is OK
-$urlSuccess = 'success.php';
+$urlSuccess = 'success.html';
 
 //------------------------------- It is undesirable to make changes further -----------------------------------------------------
 
